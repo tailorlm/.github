@@ -1,11 +1,11 @@
 # TailorLM
 
-**量体裁模。** 开源 LLM 后训练、评测与交付。
+**量体裁模。** 一个个人项目，探索开源 LLM 的后训练、评测与交付。
 
-先诊断，再训练；用固定测试集和回归测试验收。
+> 商业站暂不部署；等经营主体确定后再上线。
 
-- [官网](https://tailorlm.mcocdaa.com)
-- [服务与定价](https://github.com/tailorlm/tailorlm)
+- [个人主页](https://mcocdaa.com)
+- [项目代码](https://github.com/tailorlm/tailorlm)
 - [联系](mailto:contact@mcocdaa.com)
 
 ---
