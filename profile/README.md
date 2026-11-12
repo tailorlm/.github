@@ -1,13 +1,14 @@
 # TailorLM
 
-**量体裁模。** 一个个人项目，探索开源 LLM 的后训练、评测与交付。
+**Custom models, fitted to your business.**
 
-> 商业站暂不部署；等经营主体确定后再上线。
+Post-training for open-source LLMs: diagnosis, data & evaluation, LoRA experiments, and full delivery. We start with a diagnostic and accept on a held-out test set, not a loss curve.
 
-- [个人主页](https://mcocdaa.com)
-- [项目代码](https://github.com/tailorlm/tailorlm)
-- [联系](mailto:contact@mcocdaa.com)
+- [Website source](https://github.com/tailorlm/tailorlm)
+- [Contact](mailto:contact@mcocdaa.com)
 
 ---
 
-Custom models, fitted to your business.
+**量体裁模。** 开源 LLM 后训练、评测与交付。
+
+先诊断，再训练；用小试验验证方向，用固定测试集验收。
